@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font: 14px/18px Tahoma, Arial, Sans-serif ;
+}
+
+h1 {
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+    border-bottom: 1px #d8d8d8 solid;
+    line-height: 1;
+    font-weight: normal;
+    color: #666;
+}
+
+p {
+    line-height: 24px;
+    color: #4c4c4c;
+    margin-bottom: 30px;
+}
+
+.tooltips {
+    padding: 10px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    z-index: 999999;
+}
